@@ -12,7 +12,8 @@ but if the 3rd tree is shorter than 2nd, we cant do much about it as we cant add
 but if 2nd tree is longer and third tree is longer than 2nd, we can trim it and thats what i did.
 
 if 3 tree and consecutively increasing them i cut the height of third one.
-then i also added a number in it, as a surplus number which is avarage tree height so that if tree height goes in negative, will be sorted.
+so for trimming third tree i substracted 3rd tree height from second,
+and checked if the third tree is still taller then deducted some more meters from it which is 5
 
 I hope i did the correct thing and you have understood my logic..thank you.
 I hope i hear back from you.
